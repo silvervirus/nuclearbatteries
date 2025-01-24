@@ -1,4 +1,0 @@
-C:\Users\Cookay\Desktop\Mod Sourcecode\MetiousSubnauticaMods-master\NuclearBatteries\obj\Release\NuclearBatteries.csproj.AssemblyReference.cache
-C:\Users\Cookay\Desktop\Mod Sourcecode\MetiousSubnauticaMods-master\NuclearBatteries\obj\Release\MyPluginInfo.cs
-C:\Users\Cookay\Desktop\Mod Sourcecode\MetiousSubnauticaMods-master\NuclearBatteries\obj\Release\NuclearBatteries.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Cookay\Desktop\Mod Sourcecode\MetiousSubnauticaMods-master\NuclearBatteries\obj\Release\NuclearBatteries.csproj.CoreCompileInputs.cache
