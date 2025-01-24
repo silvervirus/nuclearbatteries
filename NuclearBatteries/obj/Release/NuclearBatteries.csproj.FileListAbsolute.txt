@@ -1,0 +1,10 @@
+C:\Users\Cookay\source\repos\MoreLockers\NuclearBatteries\bin\Release\NuclearBatteries.dll
+C:\Users\Cookay\source\repos\MoreLockers\NuclearBatteries\bin\Release\NuclearBatteries.pdb
+C:\Users\Cookay\source\repos\MoreLockers\NuclearBatteries\bin\Release\CustomBatteries.dll
+C:\Users\Cookay\source\repos\MoreLockers\NuclearBatteries\obj\Release\NuclearBatteries.csproj.AssemblyReference.cache
+C:\Users\Cookay\source\repos\MoreLockers\NuclearBatteries\obj\Release\MyPluginInfo.cs
+C:\Users\Cookay\source\repos\MoreLockers\NuclearBatteries\obj\Release\NuclearBatteries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\source\repos\MoreLockers\NuclearBatteries\obj\Release\NuclearBatteries.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\source\repos\MoreLockers\NuclearBatteries\obj\Release\NuclearB.73B3AD11.Up2Date
+C:\Users\Cookay\source\repos\MoreLockers\NuclearBatteries\obj\Release\NuclearBatteries.dll
+C:\Users\Cookay\source\repos\MoreLockers\NuclearBatteries\obj\Release\NuclearBatteries.pdb
